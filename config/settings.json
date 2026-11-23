@@ -1,0 +1,26 @@
+{
+  "module": "text-humanizer",
+  "version": "0.1.0",
+  "runtime": {
+    "threads": 4,
+    "verbose": false,
+    "hot_reload": true
+  },
+  "modules": {
+    "humanizer": {
+      "enabled": true
+    },
+    "patterns": {
+      "enabled": true
+    },
+    "paraphrase": {
+      "enabled": true
+    },
+    "batch": {
+      "enabled": true
+    },
+    "cli": {
+      "enabled": true
+    }
+  }
+}
