@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="banner.svg" alt="text-humanizer" width="840" />
-
 # TextHumanizer — AI Detector Bypass Rewriter Engine (One-Command Setup, Prebuilt Release)
 
 <p><strong>TextHumanizer — AI Detector Bypass Rewriter Engine (One-Command Setup, Prebuilt Release): Rewrite AI text until detectors score zero. Native 64-bit portable build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.</strong></p>
